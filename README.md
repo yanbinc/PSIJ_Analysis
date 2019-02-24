@@ -3,8 +3,11 @@ PSIJ Analysis toolkit
 A simple tool for PSIJ analysis.
 
 input file:
+
 1.current profile. csv format time/current
+
 2.PDN file. csv format freq/impedance_mag/impedance_img
+
 3.jitter sensitivity file. csv format. frequency/ ps-per-mv
 
 
